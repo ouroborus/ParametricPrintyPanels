@@ -1,6 +1,6 @@
 # Parametric Printy Panels
 
-Parametric Print Panels is a collection of parametric versions of [Printy Panels](https://3dprinty.xyz/project/114) and [related](https://3dprinty.xyz/projects?tag=printy%20panels).
+Parametric Printy Panels is a collection of parametric versions of [Printy Panels](https://3dprinty.xyz/project/114) and [related](https://3dprinty.xyz/projects?tag=printy%20panels).
 
 ## Legal & Attribution
 
